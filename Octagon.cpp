@@ -1,3 +1,8 @@
+#include "Graph.h"
+#include "Simple_window.h"
+
+#define PI 3.14159265
+
 class Octagon : public Shape
 {
 public:
