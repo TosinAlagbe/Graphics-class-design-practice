@@ -1,3 +1,6 @@
+#include "Simple_window.h"
+#include "Graph.h"
+
 struct Arch :Shape
 {
 	Arch(Point p, int w, int h, double ang)
