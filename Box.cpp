@@ -1,3 +1,6 @@
+#include "Simple_window.h"
+#include "Graph.h"
+
 struct Box : Lines
 {
 	Box(Point p, int length, int width, int radius);
